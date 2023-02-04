@@ -7,7 +7,11 @@ MyBerry 是一个分布式的ID构造引擎，能够为企业在生产过程中�
 
 ## 官方网站
 
-[myberry.org](https://myberry.org)
+myberry.org现已停止服务，查询相关文档，请自行下载myberry.org网站源代码运行查看。
+
+[Github Link](https://github.com/myperry/myberry-site)
+
+[Gitee Link](https://gitee.com/myberry/myberry-site)
 
 ## 特性
 
